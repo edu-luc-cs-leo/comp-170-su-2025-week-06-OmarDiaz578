@@ -1,0 +1,7 @@
+For week 05 my main mistake was not giving myself enough time. The assignment was rushed 
+and my code didn't pass majority of the tests. I also had print statements in my code
+which were uneccesary. Overall, time management was my biggest flaw when it came to the last assignment.
+My notes can still become even more detailed then they already are. My type hints still need some work too.
+I do think there are many more areas I can improve on. I know I can do things more efficiantly than I have in the past.
+To make my code more efficient I will practice doing just that, 
+finding ways to make code as efficient as possible, not just write it.
